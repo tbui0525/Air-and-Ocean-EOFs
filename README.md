@@ -15,3 +15,9 @@ Below is a description of each of the following folders and their contents:
 - Air-Ocean Coupled Model Figures: All the figures from the paper will be find here
 - animation: an additional folder that includes a GIF that cannot be shown in the paper. The following images are layers of an EOF and the GIF is creating by playing the following layers in sequence.
 - data: This file has a link to a Dropbox folder which contains the following data used in the computations and visualizations. Download the following files and place them into a folder named data for computations
+
+
+The following files below are code to compute the figures and results seen in the paper as well as a GIF that could not be shown in the paper.
+- Air No Ocean EOF Computations.ipynb : computes the EOFs for the 20CRV3 only model 
+- Air and Ocean EOF Computations.ipynb : computes the EOFs for the air-ocean coupled general model
+- GIF Making: Code used to create the GIF seen in the animation folder. 
