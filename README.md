@@ -19,5 +19,7 @@ Below is a description of each of the following folders and their contents:
 
 The following files below are code to compute the figures and results seen in the paper as well as a GIF that could not be shown in the paper.
 - Air No Ocean EOF Computations.ipynb : computes the EOFs for the 20CRV3 only model 
+- Air Ocean Model 2D Figures.ipynb : the following code will reproduce the 2D figures within the paper
+- Air Ocean Model 3D Figures.ipynb : the following code will reproduce the 3D figures within the paper.
 - Air and Ocean EOF Computations.ipynb : computes the EOFs for the air-ocean coupled general model
 - GIF Making: Code used to create the GIF seen in the animation folder. 
